@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,29 +20,23 @@
             <nav class="navigation hide" id="navigation">
                 <span class="close-icon" id="close-icon" onclick="showIconBar()"><i class="fa fa-close"></i></span>
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="index.html">Forums</a></li>
-                    <li class="nav-item"><a href="posts.html">Posts</a></li>
-                    <li class="nav-item"><a href="detail.html">Detail</a></li>
+                    <li class="nav-item"><a href="forums.html">Log In</a></li>
+                    <li class="nav-item"><a href="posts.html">Sign Up</a></li>
+                   
                 </ul>
             </nav>
             <a class="bar-icon" id="iconBar" onclick="hideIconBar()"><i class="fa fa-bars"></i></a>
           
-            <div class="brand" style="font-family: 'M PLUS 1p', sans-serif; color: darkgreen;">GreenIt</div>
+            <a href="index.html" style="text-decoration: none; color: inherit;">
+                <div class="brand" style="font-family: 'M PLUS 1p', sans-serif; color: darkgreen;">GreenIt</div>
+            </a>
         </div>
-        <!--SearchBox Section-->
-        <div class="search-box">
-            <div>
-                <select name="" id="">
-                    <option value="Everything">Everything</option>
-                    <option value="Titles">Titles</option>
-                    <option value="Descriptions">Descriptions</option>
-                </select>
-                <input type="text" name="q" placeholder="Search">
-                <button><i class="fa fa-search"></i></button>
-            </div>
-        </div>
+        <!--Add Thread Section-->
+        <a href="threads.html" class="new-thread-btn" id="newThreadBtn">New Thread</a>
     </header>
-    <div class="container">
+
+
+    <div class="container" id="postsContainer">
         <div class="forum">
             <div class="forum-title">
                 <h1>General Information</h1>
@@ -166,6 +161,12 @@
         <span>Latest post: <b><a href="">Random post</a></b> on Dec 15 2021 By <a href="">RandomUser</a></span>.<br>
         <span>Check <a href="">the latest posts</a> .</span><br>
     </div>
+
+
+
+</body>   
+ 
+
 
     <footer>
         <span>&copy;  Tasniim Ali | For Code Institute</span>

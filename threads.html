@@ -1,0 +1,36 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Threads - Reddit Style News Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <nav class="navigation hide" id="navigation">
+                <span class="close-icon" id="close-icon" onclick="showIconBar()"><i class="fa fa-close"></i></span>
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="forums.html">Log In</a></li>
+                    <li class="nav-item"><a href="posts.html">Sign Up</a></li>
+                   
+                </ul>
+            </nav>
+            <a class="bar-icon" id="iconBar" onclick="hideIconBar()"><i class="fa fa-bars"></i></a>
+          
+            <a href="index.html" style="text-decoration: none; color: inherit;">
+                <div class="brand" style="font-family: 'M PLUS 1p', sans-serif; color: darkgreen;">GreenIt</div>
+            </a>
+        </div>
+    </header>
+    <main>
+        <section id="comments">
+            <!-- Comments will be dynamically added here -->
+        </section>
+        <form id="comment-form">
+            <textarea id="comment-text" placeholder="Leave a comment"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
