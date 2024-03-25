@@ -1,6 +1,6 @@
 <h1 align="centre">GreenIt</h1>
 
-[View live project here](https://tasniim5.github.io/ro-cham-beau/)
+[View live project here](https://tasniim5.github.io/greenit/)
 
 🌿 Welcome to Greenit: Your Sustainable Community Hub!
 
@@ -15,6 +15,8 @@ Join our diverse group of members and participate in discussions on topics rangi
 But Greenit is more than just a forum – it's a vibrant community where connections are made, ideas are exchanged, and positive change is fostered. Engage with fellow members, collaborate on eco-friendly projects, and together, let's work towards a more sustainable future.
 
 Ready to join the conversation and contribute to a greener world? Create an account, log in, and start engaging with the Greenit community today! Together, we can make a difference. 🌱💬
+
+(Please note that this project was not finished in time for the deadline, this is a main repository to a secondary one including some Django code for this project that can be viewed here at (https://github.com/Tasniim5/forum))
 
 ## Responsive Mockup
 ![mockups](greenit.png)
