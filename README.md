@@ -1,10 +1,20 @@
-<h1 align="centre">RO-CHAM-BEAU!</h1>
+<h1 align="centre">GreenIt</h1>
 
 [View live project here](https://tasniim5.github.io/ro-cham-beau/)
 
-Introducing Rochambeau, the cutting-edge tech website that brings a modern twist to the classic game of rock-paper-scissors with the addition of Spock and lizard! With interactive gameplay and a sleek design, Rochambeau offers hours of fun for users of all ages. Stay ahead of the curve and challenge your friends to a game like never before on Rochambeau. Join our community now and experience the next level of gaming! 
+🌿 Welcome to Greenit: Your Sustainable Community Hub!
 
-With the ability to play against a computer in various difficulty modes. Play Rock, Paper, Lizard, Spock. Or if you prefer a traditional game of just Rock, Paper, Scissors, take on the computer and aim to win. 
+Hello, Greenit Community!
+
+Are you seeking a space where you can engage in meaningful discussions, share insights, and connect with others who are passionate about sustainability? Look no further – Greenit is here to welcome you with open arms!
+
+Greenit is your go-to forum for all things related to living a greener, more sustainable lifestyle. Whether you're interested in renewable energy, eco-friendly practices, or reducing your carbon footprint, you'll find a wealth of information and support within our community.
+
+Join our diverse group of members and participate in discussions on topics ranging from sustainable living tips to environmental activism. Share your experiences, ask questions, and learn from others who share your dedication to making a positive impact on the planet.
+
+But Greenit is more than just a forum – it's a vibrant community where connections are made, ideas are exchanged, and positive change is fostered. Engage with fellow members, collaborate on eco-friendly projects, and together, let's work towards a more sustainable future.
+
+Ready to join the conversation and contribute to a greener world? Create an account, log in, and start engaging with the Greenit community today! Together, we can make a difference. 🌱💬
 
 ## Responsive Mockup
 ![mockups](greenit.png)
